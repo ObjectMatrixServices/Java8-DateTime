@@ -1,0 +1,10 @@
+
+bsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(Â·´¼
+ysquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "today".(ô“æÚþÿÿÿÿ
+wsquid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "tomorrow".(õ² ‹
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(’Îîÿÿÿÿÿ
+gsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(µ¨ÆÒùÿÿÿÿ
+Jsquid:S1481".Remove this unused "localDate" local variable.(«·Äèüÿÿÿÿ
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ðÕ¿’úÿÿÿÿ
+bsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ÉâœÄ
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(‹ýâ·
